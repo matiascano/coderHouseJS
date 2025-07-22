@@ -4,22 +4,6 @@ Este repositorio contiene un compilado de ejercicios prácticos realizados duran
 
 ---
 
-## 📁 Estructura del repositorio
-
-├── index.html
-├── assets/
-│ └── css/
-│ └── estilos.css
-├── ejercicios/
-│ ├── e001/
-│ │ └── index.html
-│ ├── e002/
-│ │ └── index.html
-│ └── ...
-└── README.md
-
----
-
 ## 📘 Contenido
 
 Cada ejercicio incluye:
